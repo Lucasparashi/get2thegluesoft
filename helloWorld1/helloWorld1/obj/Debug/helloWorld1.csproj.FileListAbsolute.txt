@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld.Form1.resources
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld1.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\bin\Debug\helloWorld1.exe.config
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\bin\Debug\helloWorld1.exe
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\bin\Debug\helloWorld1.pdb
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld1.exe
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\helloWorld1\helloWorld1\obj\Debug\helloWorld1.pdb
