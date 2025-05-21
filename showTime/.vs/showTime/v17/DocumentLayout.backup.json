@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F22840-CFF6-4324-94E8-A348E716DE4A}|showTime\\showTime.csproj|c:\\users\\user\\desktop\\project\\btn_label\\showtime\\showtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F22840-CFF6-4324-94E8-A348E716DE4A}|showTime\\showTime.csproj|solutionrelative:showtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F22840-CFF6-4324-94E8-A348E716DE4A}|showTime\\showTime.csproj|c:\\users\\user\\desktop\\project\\btn_label\\showtime\\showtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32F22840-CFF6-4324-94E8-A348E716DE4A}|showTime\\showTime.csproj|solutionrelative:showtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F22840-CFF6-4324-94E8-A348E716DE4A}|showTime\\showTime.csproj|c:\\users\\user\\desktop\\project\\btn_label\\showtime\\showtime\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F22840-CFF6-4324-94E8-A348E716DE4A}|showTime\\showTime.csproj|solutionrelative:showtime\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\showTime\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "showTime\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\showTime\\Form1.Designer.cs",
+              "RelativeToolTip": "showTime\\Form1.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAlwEMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:05.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\showTime\\Form1.cs",
+              "RelativeDocumentMoniker": "showTime\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\showTime\\Form1.cs",
+              "RelativeToolTip": "showTime\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:40:29.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\showTime\\Form1.cs",
+              "RelativeDocumentMoniker": "showTime\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PROJECT\\BTN_LABEL\\showTime\\showTime\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "showTime\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:28:05.504Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

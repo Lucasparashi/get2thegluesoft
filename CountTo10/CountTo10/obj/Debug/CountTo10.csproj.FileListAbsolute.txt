@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\bin\Debug\CountTo10.exe.config
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\bin\Debug\CountTo10.exe
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\bin\Debug\CountTo10.pdb
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.Form1.resources
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.exe
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.pdb
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\CountTo10\CountTo10\obj\Debug\CountTo10.exe.config

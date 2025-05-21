@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.Form1.resources
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\bin\Debug\showTime.exe.config
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\bin\Debug\showTime.exe
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\bin\Debug\showTime.pdb
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.exe
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.pdb
+C:\Users\User\Desktop\PROJECT\BTN_LABEL\showTime\showTime\obj\Debug\showTime.exe.config
